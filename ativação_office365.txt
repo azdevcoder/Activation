@@ -1,0 +1,3 @@
+PowerShell Administrador 
+
+irm https://get.activated.win | iex
